@@ -46,9 +46,8 @@ Lista híbrida:
     *  Sub-lista 3c
 
 Parafraseo:
-> Neque porro quisquam est qui 
-> dolorem ipsum quia dolor sit amet, 
-> consectetur, adipisci velit...
+> ¿Qué tiene de buena la tonta Texas? 
+>   --Antonio Lopez de Santa Anna (1845)
 
 ```
 Esto es una línea de código
