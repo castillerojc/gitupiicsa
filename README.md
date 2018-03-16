@@ -21,6 +21,13 @@ __Caracteres en negritas__
 
 ~~Tachado de exto~~
 
+*  Lista 1
+*  Lista 2
+*  Lista 3
+    *  Sub-Lista 3a
+    *  Sub-Lista 3b
+    *  Sub-lista 3c
+
 ```
 Esto es una línea de código
 ```
