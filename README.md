@@ -21,13 +21,37 @@ __Caracteres en negritas__
 
 ~~Tachado de exto~~
 
+Listas no-enumeradas:
 *  Lista 1
 *  Lista 2
 *  Lista 3
     *  Sub-Lista 3a
     *  Sub-Lista 3b
     *  Sub-lista 3c
+    
+Listas numeradas:
+1.  Lista 1
+2.  Lista 2
+3.  Lista 3
+    1.  Lista 3.1
+    2.  Lista 3.2
+    3.  Lista 3.3
+    
+Lista híbrida:
+1.  Lista 1
+2.  Lista 2
+3.  Lista 3
+ *  Sub-Lista 3a
+    *  Sub-Lista 3b
+    *  Sub-lista 3c
+
+Parafraseo:
+> Neque porro quisquam est qui 
+> dolorem ipsum quia dolor sit amet, 
+> consectetur, adipisci velit...
 
 ```
 Esto es una línea de código
 ```
+
+Y muchas otras opciones de sintaxis para personalizar éste archivo de texto.
