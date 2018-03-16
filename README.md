@@ -1,12 +1,18 @@
 # gitupiicsa
-gut de prueba a upiicsa
+gut de prueba a upiicsa, Readme.md (Escrito en lenguaje Markdown)
 
-# This is an H1
-## This is an H2
-###### This is an H6
+# Esto es un H1
+## Esto es un H2
+###### Esto es un H6
 
-This is also an H1
+Esto tambien es un H1
 ==================
 
-This is also an H2
+Esto tambien es un H2
 ------------------
+
+*Caracteres en itálica*
+_Caracteres en itálica_
+**Caracteres en negritas**
+__Caracteres en negritas__
+~~Tachado de exto~~
