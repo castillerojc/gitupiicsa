@@ -12,7 +12,11 @@ Esto tambien es un H2
 ------------------
 
 *Caracteres en itálica*
+
 _Caracteres en itálica_
+
 **Caracteres en negritas**
+
 __Caracteres en negritas__
+
 ~~Tachado de exto~~
