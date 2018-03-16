@@ -20,3 +20,7 @@ _Caracteres en itálica_
 __Caracteres en negritas__
 
 ~~Tachado de exto~~
+
+```
+Esto es una línea de código
+```
